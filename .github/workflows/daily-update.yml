@@ -1,4 +1,4 @@
-name: Daily Repository Update
+name: .github/workflows/daily-update.yml
 
 on:
   schedule:
