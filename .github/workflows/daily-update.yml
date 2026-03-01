@@ -1,9 +1,12 @@
-name: .github/workflows/daily-update.yml
+name: Daily Repository Update
+
+permissions:
+  contents: write   # 👈 THIS FIXES THE ERROR
 
 on:
   schedule:
-    - cron: '0 10 * * *'   # Runs every day at 10:00 UTC
-  workflow_dispatch:       # Allows manual trigger for testing
+    - cron: '0 10 * * *'
+  workflow_dispatch:
 
 jobs:
   daily-commit:
