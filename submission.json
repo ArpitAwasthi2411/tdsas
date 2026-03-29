@@ -1,0 +1,8 @@
+{
+  "prompt": "Ukiyo-e nishiki-e woodblock print, Katsushika Hokusai style, circa 1831-1833, from the series Thirty-six Views of the Loss Landscape. A dramatic ocean scene: towering rolling waves form a convex bowl-shaped loss surface, their crests representing high loss values. A single small wooden fishing boat representing the gradient descent optimizer descends the steep face of the largest wave toward the calm deep trough at the center representing the global minimum. The boat's path is marked by small vermillion dotted marks. Mount Fuji visible small and serene in the far background. Prussian blue dominant palette, bokashi gradation in sky only, strong black key-block outlines, flat unmodulated color fills, no internal shading, kento registration misalignment, washi paper texture, vertical oban print proportions, Japanese cartouche upper right. No watermarks, no AI logos, no modern elements.",
+  "model": "Google Imagen 3 via AI Studio",
+  "concept": "Gradient descent",
+  "tradition_name": "Ukiyo-e woodblock printing (nishiki-e)",
+  "tradition_period": "1831–1833, Hokusai Thirty-six Views of Mount Fuji era",
+  "tradition_approach": "Prussian blue bokashi sky, black key-block outlines, flat unmodulated color zones, kento registration misalignment, washi paper texture, vermillion descent path marks, no internal wave shading."
+}
