@@ -1,0 +1,7 @@
+{
+  "prompt": "An infinite field of memorial candles on dark ground, cinematic photorealistic. The candles closest to the camera (foreground) are very small, fragile, barely lit — some already extinguished, leaving thin wisps of smoke. Moving into the middle distance, the candles grow taller and are densest — this central zone blazes brightest, a surge of orange-gold light. Beyond the bright center, toward the horizon, candles gradually shrink again and thin out into darkness. The density and height of candles forms a visible arc — sparse at front, peak in middle, fading at back. Deep blue-black atmosphere, fog, cinematic lighting. Shot like a TIME magazine cover. No text, no labels, no human figures.",
+  "model": "DALL-E 3 via ChatGPT",
+  "dataset_name": "Suicide rate by age — WHO Global Health Estimates",
+  "dataset_url": "https://ourworldindata.org/grapher/suicide-rates-by-age-detailed-who",
+  "insight": "Suicide is the third leading cause of death for people aged 15–29 globally, with rates peaking in young adulthood before declining — the youngest and oldest victims are the least visible in public discourse."
+}
